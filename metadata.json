@@ -1,0 +1,6 @@
+{
+  "name": "Aarambh Restaurant and Cafe",
+  "description": "Explore the menu and contact Aarambh Restaurant and Cafe in Thakur Pura, Shivpuri, Madhya Pradesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
